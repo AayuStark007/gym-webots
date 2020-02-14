@@ -1,4 +1,5 @@
-## GYM-WEBOTS
+## GYM-WEBOTS [WIP]
+### The project is currently incomplete. Will resume work on this when I have more time.
 
 ### Available environments
 - `wb-4wheels-v0`: Webots 4 Wheel robot with 2 distance sensors.
